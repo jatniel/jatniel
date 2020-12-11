@@ -7,7 +7,7 @@
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-29-72537.png" alt="Jatniel Linkedin" height="30" width="30" />
 </a>
 <a href="https://stackoverflow.com/users/9446515/jatniel" target="blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2-432547.png"  
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2-432547.png"  
     alt="Jatniel Stackoverflow" height="30" width="30">
 </a>
 <!--
