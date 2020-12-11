@@ -1,15 +1,14 @@
 ### Hi there 👋, I'm Jatniel
 
 <a href="https://twitter.com/jatniel" target="blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/twitter-33-72545.png" alt="jatniel" height="30" width="30" />
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/twitter-33-72545.png" alt="Jatniel Twitter" height="30" width="30" />
 </a>
-
 <a href="https://fr.linkedin.com/in/jatniel" target="blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-29-72537.png" alt="jatniel" height="30" width="30" />
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-29-72537.png" alt="Jatniel Linkedin" height="30" width="30" />
 </a>
-
 <a href="https://stackoverflow.com/users/9446515/jatniel" target="blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2-432547.png" srcset="https://cdn.iconscout.com/icon/free/png-512/stackoverflow-2-432547.png 2x" alt="Stackoverflow Logo Icon" width="30">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2-432547.png"  
+    alt="Jatniel Stackoverflow" width="30">
 </a>
 <!--
 
