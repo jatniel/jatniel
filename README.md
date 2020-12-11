@@ -8,7 +8,7 @@
 </a>
 <a href="https://stackoverflow.com/users/9446515/jatniel" target="blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2-432547.png"  
-    alt="Jatniel Stackoverflow" width="30">
+    alt="Jatniel Stackoverflow" height="30" width="30">
 </a>
 <!--
 
