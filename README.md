@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Jatniel 
 ## Dev
 
+[Bio](https://jatniel.bio.link)
 <a href="https://twitter.com/jatniel" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/twitter-33-72545.png" alt="Jatniel Twitter" height="30" width="30" /></a>
 <a href="https://fr.linkedin.com/in/jatniel" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-29-72537.png" alt="Jatniel Linkedin" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/9446515/jatniel" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2-432547.png" alt="Jatniel Stackoverflow" height="30" width="30"></a>
