@@ -8,7 +8,7 @@
 <a href="https://dev.to/jatnielguzman"  target="_blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jatniel Guzmán's DEV Profile" height="30" width="30"></a>
 
 ![Jatniel GitHub stats](https://github-readme-stats.vercel.app/api?username=jatniel&count_private=true&show_icons=true&theme=radical)
-![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=jatniel&layout=compact)
+![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=jatniel&layout=compact&theme=radical)
 <!--
 
 Here are some ideas to get you started:
