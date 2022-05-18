@@ -9,8 +9,8 @@
 
 ![Jatniel GitHub stats](https://github-readme-stats.vercel.app/api?username=jatniel&count_private=true&show_icons=true&theme=radical)
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=jatniel&layout=compact&theme=radical)
-<!--
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
-
+ 
 
 ## 🔗 Links
 [![web](https://img.shields.io/badge/my_web-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jatnielguzman.com/)
