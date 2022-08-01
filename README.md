@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Jatniel 
-## Developer Full Stack
+## Developer PHP
 
 <!--
 <a href="https://twitter.com/jatniel" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/twitter-33-72545.png" alt="Jatniel Twitter" height="30" width="30" /></a>
