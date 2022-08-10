@@ -2,9 +2,10 @@
 ## Developer PHP
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="600"/>
 </div>
 
+##
 <!--
 <a href="https://twitter.com/jatniel" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/twitter-33-72545.png" alt="Jatniel Twitter" height="30" width="30" /></a>
 <a href="https://fr.linkedin.com/in/jatniel" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-29-72537.png" alt="Jatniel Linkedin" height="30" width="30" /></a>
