@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Jatniel 
 ## Freelance Developer 
 ## Symfony / Laravel / Angular / VueJS / React / Express
-## TDD DDD POO
-## SysAdmin 
+## TDD / DDD / POO
+## & SysAdmin Linux / Unix 
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="250"/>
