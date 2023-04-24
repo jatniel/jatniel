@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Jatniel 
-## Developer Symfony / Laravel / Angular / VueJS / React
+## Freelance Developer 
+## Symfony / Laravel / Angular / VueJS / React / Express
+## TDD DDD POO
 ## SysAdmin 
 
 <div id="header" align="left">
