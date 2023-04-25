@@ -1,15 +1,16 @@
-## Hi there 👋, I'm Jatniel 
-## Freelance Developer 
-## Symfony / Laravel / Angular / VueJS / React / Express
-## TDD / DDD / POO
-## SysAdmin Linux / Unix 
+# 🚀 Hi there 👋, I'm Jatniel
+I'm a freelance full stack developer with expertise in Symfony, Laravel, Angular, VueJS, React, and Express. My skills also include TDD, DDD, POO, and SysAdmin Linux/Unix.
 
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="250"/>
-</div>
-
-#
-
+##  Skills 💡
+- TDD
+- DDD
+- POO
+- Symfony
+- Laravel
+- Angular
+- VueJS
+- React
+- Express
 
 ![Jatniel GitHub stats](https://github-readme-stats.vercel.app/api?username=jatniel&count_private=true&show_icons=true&theme=radical)
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=jatniel&layout=compact&theme=radical)
