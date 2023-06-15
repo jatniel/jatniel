@@ -15,9 +15,6 @@ I am freelance Full Stack developer with expertise in Symfony, Laravel, Angular,
 - Express
 - PrestaShop
 
-#[Jatniel GitHub stats](https://github-readme-stats.vercel.app/api?username=jatniel&count_private=true&show_icons=true&theme=radical)
-#[Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=jatniel&layout=compact&theme=radical)
-
  
 
 ## 🔗 Links
