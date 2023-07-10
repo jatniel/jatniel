@@ -7,12 +7,14 @@ I am freelance Full Stack developer with expertise in Symfony, Laravel, Angular,
 - TDD
 - DDD
 - POO
+  
 - Symfony
 - Laravel
-- Angular
+  
 - VueJS
 - React
 - Express
+  
 - PrestaShop
 
  
