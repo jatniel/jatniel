@@ -1,7 +1,7 @@
 # 🚀 Hi there 👋, I'm Jatniel
 Welcome to my GitHub page!
 
-I am freelance Full Stack developer with expertise in Symfony, Laravel, Angular, VueJS, React, and Express. My skills also include TDD, DDD, POO, and SysAdmin Linux/Unix.
+I am freelance Full Stack developer with expertise in PHP, Symfony, Laravel, JS, VueJS, React, and Express. My skills also include TDD, DDD, POO, and SysAdmin Linux/Unix server.
 
 ##  Skills 💡
 - TDD
