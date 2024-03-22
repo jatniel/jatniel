@@ -4,18 +4,44 @@ Welcome to my GitHub page!
 I am freelance Full Stack developer with expertise in PHP, Symfony, Laravel, JS, VueJS, React, and Express. My skills also include TDD, DDD, POO, and SysAdmin Linux/Unix server.
 
 ##  Skills 💡
-- TDD
-- DDD
-- POO
-  
+
+- PHP
 - Symfony
 - Laravel
-  
+- LAMP
+
 - VueJS
 - React
 - Express
   
 - PrestaShop
+  
+- JavaScript
+- jQuery
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind
+
+- MySQL
+- MariaDB
+- PostgreSQL
+- MongoDB
+- Airtable
+
+- TDD
+- SOLID
+- POO
+
+- PHPUnit
+- Pest
+
+- GIT
+- Bash
+- Linux
+- MacOS
+  
+  
 
  
 
