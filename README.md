@@ -1,7 +1,7 @@
 # 🚀 Hi there 👋, I'm Jatniel
 Welcome to my GitHub page!
 
-### I am freelance, Software developer with expertise in PHP, Python, TypeScript, JavaScript, Symfony, Laravel, PrestaShop, VueJS and React. 
+### I am freelance, Software developer with expertise in PHP, Python, TypeScript, JavaScript, Symfony, Laravel, PrestaShop. 
 
 
 [![2crypto.io](https://img.shields.io/badge/2crypto.io-3B7B21?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.2crypto.io/team/jatniel-guzman/) 
