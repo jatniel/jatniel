@@ -20,7 +20,6 @@ I’m a **Senior Freelance Software Developer** with over **20 years of experien
 ---
 
 ### 🌍 Connect with Me
-[![2crypto.io](https://img.shields.io/badge/2crypto.io-3B7B21?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.2crypto.io/team/jatniel-guzman/)
 [![Portfolio](https://img.shields.io/badge/jatniel.dev-000?style=for-the-badge&logo=apple&logoColor=white)](https://jatniel.dev/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/jatniel)
 [![X / Twitter](https://img.shields.io/badge/@jatnieldev-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jatnieldev)
