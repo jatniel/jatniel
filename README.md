@@ -1,29 +1,25 @@
-# 🚀 Hi there 👋, I'm Jatniel
+# Jatniel
 
-Welcome to my GitHub!  
-I’m a **Senior Freelance Software Developer** with over **20 years of experience** building scalable, maintainable, and high-performance web applications.
+**Backend developer, +20 years building things that work.**
 
-### 👨‍💻 About Me
-- Specialized in **PHP (Symfony, Laravel, PrestaShop)** and **JavaScript/TypeScript**.
-- Strong background in **Python (FastAPI)**, **APIs**, and **automation**.
-- Advocate of **clean code, OOP, and SOLID principles** in every project.
-- Experienced in **DevOps**, **Docker**, and performance optimization (caching, databases, CDNs).
-- Passionate about delivering **long-lasting solutions** for startups, SMEs, and large-scale platforms.
+I write clean, maintainable code — mostly in PHP and Python. I care about solving real problems with simple solutions that last.
 
-### 🔧 Tech Stack
-- **Backend:** PHP, Symfony, Laravel, API Platform, Python, FastAPI
-- **Frontend:** JavaScript, TypeScript, React, Next.js, Alpine.js, TailwindCSS
-- **E-commerce:** PrestaShop, custom marketplaces, payment & logistics integrations
-- **Databases:** PostgreSQL, MySQL, Redis, Memcached
-- **DevOps & Tools:** Docker, Linux/macOS, Cloudflare, Git, CI/CD
+### What I work with
 
----
+**Core:** PHP (Symfony, Laravel), Python (FastAPI), API Platform, REST & GraphQL APIs
 
-### 🌍 Connect with Me
-[![Portfolio](https://img.shields.io/badge/jatniel.dev-000?style=for-the-badge&logo=apple&logoColor=white)](https://jatniel.dev/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/jatniel)
-[![X / Twitter](https://img.shields.io/badge/@jatnieldev-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jatnieldev)
-[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatniel)
+**Data:** PostgreSQL, MySQL, Redis
+
+**Infra:** Docker, Linux, CI/CD, Cloudflare
+
+**Also comfortable with:** TypeScript, React, Next.js, TailwindCSS — enough frontend to ship full products when needed.
+
+### What I’ve done
+
+- Built and maintained e-commerce platforms (PrestaShop, custom marketplaces, payment & logistics integrations)
+- Designed APIs serving thousands of requests per second
+- Helped startups and SMEs go from idea to production
 
 ---
-💡 *Always open to collaborating on challenging projects, tech discussions, and new opportunities.*
+
+[jatniel.dev](https://jatniel.dev/) · [LinkedIn](https://fr.linkedin.com/in/jatniel) · [X](https://twitter.com/jatnieldev)
