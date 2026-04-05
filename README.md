@@ -22,4 +22,4 @@ I write clean, maintainable code — mostly in PHP and Python. I care about solv
 
 ---
 
-[jatniel.dev](https://jatniel.dev/) · [LinkedIn](https://fr.linkedin.com/in/jatniel) · [X](https://twitter.com/jatnieldev)
+[jatniel.dev](https://jatniel.dev/) · [LinkedIn](https://fr.linkedin.com/in/jatniel) · [X](https://twitter.com/jatnieldev) · [jatniel.link](https://www.jatniel.link)
