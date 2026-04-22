@@ -2,11 +2,11 @@
 
 **Senior PHP Backend Developer · 20+ years shipping scalable, maintainable software.**
 
-[![Portfolio](https://img.shields.io/badge/jatniel.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://jatniel.dev/)
+[![Portfolio](https://img.shields.io/badge/jatniel.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.jatniel.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/jatniel)
 [![X](https://img.shields.io/badge/@jatnieldev-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jatnieldev)
 [![Links](https://img.shields.io/badge/jatniel.link-6366F1?style=for-the-badge&logo=linktree&logoColor=white)](https://www.jatniel.link)
-![Available](https://img.shields.io/badge/Available%20for%20new%20projects-22C55E?style=for-the-badge)
+[![Available](https://img.shields.io/badge/Available%20for%20new%20projects-22C55E?style=for-the-badge)](https://wwww.jatniel.dev)
 
 ---
 
