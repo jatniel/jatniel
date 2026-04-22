@@ -1,6 +1,6 @@
 # Jatniel Guzmán
 
-**Senior Freelance Software Developer · 20+ years shipping scalable, maintainable software.**
+**Senior PHP Backend Developer · 20+ years shipping scalable, maintainable software.**
 
 [![Portfolio](https://img.shields.io/badge/jatniel.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://jatniel.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/jatniel)
@@ -12,34 +12,35 @@
 
 ## About
 
-I build scalable, high-performance web applications for startups and SMEs.
-My focus is simple: **clean code, sensible architecture, and solutions that last**.
+Senior PHP backend developer specialized in Symfony, Laravel, REST APIs, microservices, and high-traffic e-commerce platforms (PrestaShop).
 
-I care about the craft OOP, SOLID, readable code, honest naming and I care about the outcome: things that ship, perform, and keep working years later.
+I cover the full development cycle: architecture, development, testing, deployment, and maintenance. I care about code quality, best practices (SOLID, unit testing, code review), and application performance. My focus: **things that ship, perform, and keep working years later**.
 
 ---
 
 ## What I do
 
-- **Backend & APIs** : Designing and building REST & GraphQL APIs that handle thousands of req/s
-- **E-commerce** : PrestaShop, custom marketplaces, payment & logistics integrations
+- **Backend & APIs** : REST & GraphQL APIs, microservices architecture, API Platform
+- **E-commerce** : PrestaShop (modules, themes, backoffice, connectors), custom marketplaces (+20% conversion rate)
+- **Integrations** : Stripe, ERP, CRM, third-party services and marketplace connectors
+- **Automation** : PHP/Python scripts, scheduled tasks, scraping, CSV/JSON/XML pipelines
 - **Architecture** : From green-field projects to rescuing legacy codebases
-- **Performance** : Caching, query tuning, CDN strategy, infrastructure cost optimization
+- **Performance** : Caching, query tuning, asset optimization, up to -25% render time reduction
 - **Mentoring** : Helping teams adopt clean code, OOP and SOLID
 
 ---
 
 ## Stack
 
-| Category       | Technologies                                              |
-|----------------|-----------------------------------------------------------|
-| **Languages**  | PHP · Python · TypeScript · JavaScript                    |
-| **Frameworks** | Symfony · Laravel · FastAPI · React · Next.js · Alpine.js |
-| **APIs**       | REST · GraphQL · API Platform                             |
-| **Styling**    | TailwindCSS · Bootstrap                                   |
-| **E-commerce** | PrestaShop                                                |
-| **Data**       | PostgreSQL · MySQL · Redis · MongoDB                      |
-| **Infra**      | Docker · Linux · Cloudflare · CI/CD                       |
+| Category       | Technologies                                                       |
+|----------------|--------------------------------------------------------------------|
+| **Languages**  | PHP 5/7/8 · Python · TypeScript · JavaScript                       |
+| **Frameworks** | Symfony · Laravel · FastAPI · React · Next.js · Alpine.js · Vue.js |
+| **APIs**       | REST · GraphQL · API Platform · Stripe                             |
+| **Styling**    | TailwindCSS · Bootstrap · HTML5 · CSS3                             |
+| **E-commerce** | PrestaShop                                                         |
+| **Data**       | PostgreSQL · MySQL · Redis · MongoDB · Memcached                   |
+| **Infra**      | Docker · Linux · Cloudflare · CI/CD · Git · Bash                   |
 
 ---
 
