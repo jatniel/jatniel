@@ -1,50 +1,40 @@
 # Jatniel Guzmán
 
-**Senior PHP Backend Developer · 20+ years shipping scalable, maintainable software.**
+**Senior Backend Developer · PHP, APIs and e-commerce**
 
-[![Portfolio](https://img.shields.io/badge/jatniel.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.jatniel.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/jatniel)
-[![X](https://img.shields.io/badge/@jatnieldev-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jatnieldev)
-[![Links](https://img.shields.io/badge/jatniel.link-6366F1?style=for-the-badge&logo=linktree&logoColor=white)](https://www.jatniel.link)
-[![Available](https://img.shields.io/badge/Available%20for%20new%20projects-22C55E?style=for-the-badge)](https://wwww.jatniel.dev)
-
----
+[![Website](https://img.shields.io/badge/jatniel.dev-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://www.jatniel.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/jatniel)
+[![X](https://img.shields.io/badge/@jatnieldev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jatnieldev)
+[![Links](https://img.shields.io/badge/All_my_links-6366F1?style=flat-square&logo=linktree&logoColor=white)](https://www.jatniel.link/)
+[![Availability](https://img.shields.io/badge/Open_to_projects-2EA44F?style=flat-square)](https://www.jatniel.dev/)
 
 ## About
 
-Senior PHP backend developer specialized in Symfony, Laravel, REST APIs, microservices, and high-traffic e-commerce platforms (PrestaShop).
+I'm a backend developer with more than 20 years of experience building and maintaining web applications. I specialize in PHP, Symfony, Laravel, APIs and high-traffic e-commerce platforms, particularly PrestaShop.
 
-I cover the full development cycle: architecture, development, testing, deployment, and maintenance. I care about code quality, best practices (SOLID, unit testing, code review), and application performance. My focus: **things that ship, perform, and keep working years later**.
+My work covers the full software lifecycle, from architecture and implementation to testing, deployment and long-term maintenance. I value clear solutions, reliable delivery and codebases that remain easy to evolve.
 
----
+## Areas of expertise
 
-## What I do
+- **Backend and APIs:** REST and GraphQL APIs, microservices and API Platform
+- **E-commerce:** PrestaShop modules, themes, back-office tools, connectors and custom marketplaces
+- **Integrations:** payment providers, ERP and CRM systems, third-party services and marketplace connectors
+- **Automation:** PHP and Python scripts, scheduled tasks, web scraping and CSV, JSON or XML data pipelines
+- **Architecture:** new product development, legacy modernization and performance improvements
+- **Teamwork:** code reviews, technical guidance and clean-code practices
 
-- **Backend & APIs** : REST & GraphQL APIs, microservices architecture, API Platform
-- **E-commerce** : PrestaShop (modules, themes, backoffice, connectors), custom marketplaces (+20% conversion rate)
-- **Integrations** : Stripe, ERP, CRM, third-party services and marketplace connectors
-- **Automation** : PHP/Python scripts, scheduled tasks, scraping, CSV/JSON/XML pipelines
-- **Architecture** : From green-field projects to rescuing legacy codebases
-- **Performance** : Caching, query tuning, asset optimization, up to -25% render time reduction
-- **Mentoring** : Helping teams adopt clean code, OOP and SOLID
+## Technology stack
 
----
+| Area | Technologies |
+| --- | --- |
+| **Languages** | PHP · Python · TypeScript · JavaScript |
+| **Backend** | Symfony · Laravel · FastAPI · API Platform |
+| **Frontend** | React · Next.js · Vue.js · Alpine.js |
+| **E-commerce** | PrestaShop · Stripe |
+| **Data** | PostgreSQL · MySQL · Redis · MongoDB · Memcached |
+| **Infrastructure** | Docker · Linux · Cloudflare · CI/CD · Git · Bash |
+| **Web** | Tailwind CSS · Bootstrap · HTML · CSS |
 
-## Stack
+## Contact
 
-| Category       | Technologies                                                       |
-|----------------|--------------------------------------------------------------------|
-| **Languages**  | PHP 5/7/8 · Python · TypeScript · JavaScript                       |
-| **Frameworks** | Symfony · Laravel · FastAPI · React · Next.js · Alpine.js · Vue.js |
-| **APIs**       | REST · GraphQL · API Platform · Stripe                             |
-| **Styling**    | TailwindCSS · Bootstrap · HTML5 · CSS3                             |
-| **E-commerce** | PrestaShop                                                         |
-| **Data**       | PostgreSQL · MySQL · Redis · MongoDB · Memcached                   |
-| **Infra**      | Docker · Linux · Cloudflare · CI/CD · Git · Bash                   |
-
----
-
-## Let's work together
-
-Open to new projects, collaborations, and technical conversations.
-Reach out via [LinkedIn](https://fr.linkedin.com/in/jatniel), [jatniel.dev](https://jatniel.dev/), or any of the links above.
+I'm open to new projects, collaborations and technical conversations. You can reach me through [LinkedIn](https://fr.linkedin.com/in/jatniel), visit [jatniel.dev](https://www.jatniel.dev/) or find all my profiles at [jatniel.link](https://www.jatniel.link/).
