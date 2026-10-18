@@ -8,6 +8,8 @@
 [![Links](https://img.shields.io/badge/All_my_links-6366F1?style=flat-square&logo=linktree&logoColor=white)](https://www.jatniel.link/)
 [![Availability](https://img.shields.io/badge/Open_to_collaborations_and_projects-2EA44F?style=flat-square)](https://www.jatniel.dev/)
 
+[![/dev/null activity](https://dev-null.sh/@jatniel/graph.svg?theme=auto)](https://dev-null.sh/@jatniel)
+
 ## About me
 
 I've been building for the web for over 20 years, and I still enjoy it. Most of my days are spent in PHP, with Symfony, Laravel and PrestaShop: APIs, online stores and all the small tools that keep a business running behind the scenes.
